@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame", "HangmanGame\HangmanGame.csproj", "{2434A955-8305-4DB0-A301-D2B6399D32BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame.DataAccess", "HangmanGame.DataAccess\HangmanGame.DataAccess.csproj", "{7406308F-5D9A-4551-83AC-46DADF2F89BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame.Models", "HangmanGame.Models\HangmanGame.Models.csproj", "{A2063BB7-A608-4336-8801-29C7184E45CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame.Tests", "HangmanGame.Tests\HangmanGame.Tests.csproj", "{D1E80DA7-C772-4422-87D0-74E17C9AACC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2434A955-8305-4DB0-A301-D2B6399D32BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2434A955-8305-4DB0-A301-D2B6399D32BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2434A955-8305-4DB0-A301-D2B6399D32BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2434A955-8305-4DB0-A301-D2B6399D32BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7406308F-5D9A-4551-83AC-46DADF2F89BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7406308F-5D9A-4551-83AC-46DADF2F89BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7406308F-5D9A-4551-83AC-46DADF2F89BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7406308F-5D9A-4551-83AC-46DADF2F89BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2063BB7-A608-4336-8801-29C7184E45CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2063BB7-A608-4336-8801-29C7184E45CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2063BB7-A608-4336-8801-29C7184E45CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2063BB7-A608-4336-8801-29C7184E45CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E80DA7-C772-4422-87D0-74E17C9AACC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E80DA7-C772-4422-87D0-74E17C9AACC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E80DA7-C772-4422-87D0-74E17C9AACC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E80DA7-C772-4422-87D0-74E17C9AACC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62EE401-80B7-4119-8FAD-38B4755684A1}
+	EndGlobalSection
+EndGlobal
